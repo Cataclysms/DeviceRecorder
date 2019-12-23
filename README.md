@@ -1,1 +1,1 @@
-# DeviceRecorder
+# DeviceRecorderPMMP用　プレイヤーの端末を記録するプラグイン
